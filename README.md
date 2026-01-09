@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yuki6ra&column=-1&no-frame=true&margin-w=8&theme=oldie)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuki6ra&column=-1&no-frame=true&margin-w=8&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p style="text-align: right;">
     <img src="https://github-readme-stats.vercel.app/api?username=yuki6ra&show_icons=true&theme=swift&hide_border=true" align="right" />
