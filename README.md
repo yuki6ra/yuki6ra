@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=yuki6ra&show_icons=true&theme=swift&hide_border=true" align="right" />
 </p>
 
-- 🎓 I'm studying in Kyusyu Institute of Technology.
+- 🎓 ~~I'm studying in Kyusyu Institute of Technology.~~
 - 🔬 Keywords: PSP, Process
 - 💛 Favorite: Illustration🎨
 <!--
